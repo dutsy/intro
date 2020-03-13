@@ -31,10 +31,6 @@ output:
 File: ex9b.cc
 Steps to each one number from the another
 ================================================================================
-Written by: Bahaa Zahika
-id: 207095498
-login: bahaaza
-
 a program that counts shortest steps needed to reach n1 (number) from
 n2 (another number) with only two actions, sum by , multiplication by 2.
 note: numbers should be positive.
