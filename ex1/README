@@ -1,0 +1,25 @@
+modprog1, 2018a
+Written by: qussay firon
+ID: 327601779
+Login: kuchipe
+
+Ex #1a
+Description: This program takes 3 integers from the user, then it subtracts
+them.
+input: 3 integers
+output:
+first-first first-second first-third
+second-first second-second second-third
+third-first third-second third-third
+
+Ex #1b
+Description: This program takes 3 doubles from the user, the 3 doubles
+present a triangle.
+input: 3 doubles
+output: area and the perimeter of the triangle.
+
+Ex #1c
+Description: This program takes 4 doubles from the user, the first 2 doubles
+present a left top point and the last 2 present a right bottom point of a rectangle.
+input: 4 doubles
+output: radius, area and perimeter of the circles.
