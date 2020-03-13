@@ -1,0 +1,40 @@
+modprog1, 2018a
+Written by: qussay firon
+id: 327601779
+login: kuchipe
+
+Ex #3a a program that counts how many numbers are enters and their average
+how many of them was positive and how many of them was negative, the
+program stops when 0 is entered.
+################################################################################
+Compile and run
+compile: g++ -Wall ex3a.cc -o ex3a
+usage example
+run the program with the command "./ex3a" and enter "5 12 #3 23 12 0" then
+press enter
+output: 5 9 4 1
+--------------------------------------------------------------------------------
+Ex #3b a program that finds gcd of two numbers, the program stops when
+zero is entered
+################################################################################
+Compile and run
+compile: g++ -Wall ex3b.cc -o ex3b
+usage example
+run the program with the command "./exb" and enter "32 5" then press enter
+output: 1
+--------------------------------------------------------------------------------
+
+Ex #3c a program that generates a random number in a range of user choice,
+and user have to guess the generated number.
+################################################################################
+Compile and run
+compile: g++ -Wall ex3c.cc -o ex3c
+usage example
+run the program with the command "./ex3c"
+input: 10 5 4 6 8 7 0
+output:
+too small
+too small
+3 3
+100
+again? 1:YES
