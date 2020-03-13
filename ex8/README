@@ -1,0 +1,24 @@
+modprog1, 2018a
+Written by: qussay firon
+id: 327601779
+login: kuchipe
+
+Ex #8a a program that tests some properties of number array
+compile: g++ -Wall ex8a -o ex8a
+run: ./ex8a
+Complexity time: N^2 where N is the array size
+you have to following options you have to choose from them
+usage example:
+1- fill array (Complexity time: N)
+2- linear search (Complexity time: N)
+3- bubble sort (Complexity time: N^2)
+4- binary search (Complexity time: LOG(N))
+5- occurrences (Complexity time: N)
+6- print (Complexity time: N)
+7- reverse print (Complexity time: N)
+8- is not decreasing (Complexity time: N)
+9- is palindrome (Complexity time: N)
+10- left sum numbers (Complexity time: N^2)
+11- unique numbers (Complexity time: N^2)
+12- prime numbers (Complexity time: N^2)
+13- end
