@@ -1,0 +1,31 @@
+modprog1, 2018a
+Written by: qussay frion
+id: 327601779
+login: kuchipe
+
+--------------------------------------------------------------------------
+Ex #2a a program that identifies if numbers are odd or even positive or
+negative or zero
+
+usage example
+input: 1 -2 3 0
+output:
+2 2
+2 1 1
+
+output is ordered as so
+evens odds
+positives zeros negatives
+--------------------------------------------------------------------------
+Ex #2b a program calculates the maximum result of sum and multiplication
+of three numbers.
+
+usage example
+input: 2 2 2
+output: (2+2)2=8
+--------------------------------------------------------------------------
+Ex #2c a program converts date from numeric form to words form. 
+usage example
+
+input: 2 2 2333
+output: 2nd February 2333
