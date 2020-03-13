@@ -1,0 +1,39 @@
+modprog1, 2018a
+Written by: qussay firon
+id: 327601779
+login: kuchipe
+--------------------------------------------------------------------------------
+Ex #7a a program that prints upper case and replaces string of given input
+complexity time: MAX_STR_LEN^2
+compile: g++ -Wall ex7a.cc -o ex7a
+################################################################################
+usage example:
+run: ex7a
+input : abcabc a
+output:
+BCABC
+bcbc
+--------------------------------------------------------------------------------
+Ex #7b a program that finds the longest matching words from text with a
+dictionary and return the matching start location and length in string2
+complexity time: MAX_TEXT_LEN^2*MAX_STRS*MAX_STR_LEN
+compile: g++ -Wall ex7b.cc -o ex7b
+################################################################################
+usage example:
+run: ex7b
+input:
+aa bb cc dd ee ff gg hh ii .
+tt Aa eE s hh Ii gg‬‬‬‬
+output: 11 8‫‪
+
+--------------------------------------------------------------------------------
+Ex #7c a program that finds the longest matching substring  length of string1
+in string2
+complexity time: N^3
+compile: g++ -Wall ex7c.cc -o ex7c
+################################################################################
+run ex7c
+usage example:
+input : ‫‪xxabcdyyy fgfgabc1234‬‬‬‬
+output: 3‫‪
+
