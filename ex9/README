@@ -1,0 +1,49 @@
+File: ex9a.cc
+Solving Sudoku
+================================================================================
+Written by: qussay firon
+id: 327601779
+login: kuchipe
+
+A program that solves Sudoku.
+
+Compile: g++ -Wall ex9a.cc -o ex9a
+Run: ./ex9a
+Input: x y value x y value -1(EOF)
+Output: Sudoku board
+
+Example:
+input:
+0 0 1
+0 1 2
+0 2 3
+1 0 4
+2 1 4
+1 3 1
+3 0 2
+3 3 3
+-1
+output:
+1 2 3 4
+4 3 2 1
+3 4 1 2
+2 1 4 3
+File: ex9b.cc
+Steps to each one number from the another
+================================================================================
+Written by: Bahaa Zahika
+id: 207095498
+login: bahaaza
+
+a program that counts shortest steps needed to reach n1 (number) from
+n2 (another number) with only two actions, sum by , multiplication by 2.
+note: numbers should be positive.
+
+Compile: g++ -Wall ex9b.cc -o ex9b
+Run: ./ex9b
+Input: two unsigned numbers
+Output: number of steps
+
+Example:
+input: 1 22
+output: 6
